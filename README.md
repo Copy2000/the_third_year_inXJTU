@@ -3,5 +3,5 @@
 
 
 
-* $ppt2pdf.py$是ppt转pdf的脚本；
+* ppt2pdf.py是ppt转pdf的脚本；
 
